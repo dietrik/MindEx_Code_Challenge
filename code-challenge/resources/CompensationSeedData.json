@@ -1,0 +1,32 @@
+[
+  {
+    "compensationId": "dd75db96-9b52-4de7-8f03-3b3510dfbb18",
+    "employee": "16a596ae-edd3-4847-99fe-c4518e82c86f",
+    "salary": 180000,
+    "effectiveDate": "2013-02-02T00:00:00"
+  },
+  {
+    "compensationId": "6c5374a3-5c15-489d-b9f1-e8fd48e4df9d",
+    "employee": "b7839309-3348-463b-a7e3-5de1c168beb3",
+    "salary": 55000,
+    "effectiveDate": "2021-06-13T00:00:00"
+  },
+  {
+    "compensationId": "e3462fb6-e311-4277-962e-a2d106ba6bde",
+    "employee": "03aa1462-ffa9-4978-901b-7c001562cf6f",
+    "salary": 114000,
+    "effectiveDate": "2018-03-21T00:00:00"
+  },
+  {
+    "compensationId": "e888ef34-94fd-4de9-85f5-ddfb2595101f",
+    "employee": "62c1084e-6e34-4630-93fd-9153afb65309",
+    "salary": 66000,
+    "effectiveDate": "2020-09-18T00:00:00"
+  },
+  {
+    "compensationId": "465c7a96-3f30-4b5f-8438-7dd2323f16a2",
+    "employee": "c0c2293d-16bd-4603-8e08-638a9d18b22c",
+    "salary": 79000,
+    "effectiveDate": "2019-11-13T00:00:00"
+  }
+]
